@@ -1,0 +1,5 @@
+function myButton(){
+     alert("I LIKE INFORMATICS BECAUSE IT CONSTANTLY CHALLENGES ME ALTHOUGH I WISH IT WOULDNT THE WHOLE TIME")
+}
+alert(myButton)
+   
